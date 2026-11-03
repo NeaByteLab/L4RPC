@@ -13,7 +13,7 @@ L4RPC is a TCP procedure call for daemon services. Each call is one length-prefi
 **Deno:**
 
 ```bash
-deno add jsr:@neabyte/l4rpc
+deno add npm:@neabyte/l4rpc
 ```
 
 ## Usage
@@ -165,6 +165,12 @@ Bound `Deno.NetAddr`.
 ### `server.close()`
 
 Stops accepting and closes open sockets. A second call does nothing.
+
+## Build
+
+```bash
+npm run build
+```
 
 ## Testing
 
