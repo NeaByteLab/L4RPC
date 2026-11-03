@@ -40,9 +40,6 @@
     "transport",
     "typescript"
   ],
-  "dependencies": {
-    "@neabyte/byte-tokenizer": "^0.1.0"
-  },
   "devDependencies": {
     "@typescript/typescript6": "^6.0.2",
     "unbuild": "^3.6.1"
