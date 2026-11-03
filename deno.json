@@ -1,7 +1,7 @@
 {
   "name": "@neabyte/l4rpc",
   "description": "Stateless TCP procedure call library built for daemon services",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "license": "MIT",
   "exports": "./src/index.ts",
